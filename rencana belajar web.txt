@@ -1,0 +1,5 @@
+Rencana belajar web
+-Menamatkan HTML dan CSS
+ -HTML clear
+ -CSS belum
+-Selesaikan JavaScript
