@@ -1,0 +1,3 @@
+Rencana belajar web
+-Menamatkan HTTP dan CSS
+-Selesaikan JavaScript
